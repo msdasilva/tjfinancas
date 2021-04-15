@@ -1,0 +1,6 @@
+com.spassu.tjfinancas
+com.spassu.tjfinancas.configuration
+com.spassu.tjfinancas.controller
+com.spassu.tjfinancas.model
+com.spassu.tjfinancas.repository
+com.spassu.tjfinancas.service
